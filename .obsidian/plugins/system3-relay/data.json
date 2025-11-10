@@ -1,0 +1,43 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "Notes",
+      "guid": "e3317042-00ee-4cbd-91bd-806abb476daa",
+      "relay": "01c22dc2-8854-475f-90ad-1c769e35a76f",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": false,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": false,
+  "debugging": false,
+  "login": {
+    "provider": "github"
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}

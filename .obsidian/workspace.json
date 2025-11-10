@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "8c1fda2af4bd7504",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5437e551db86d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f78b7ea2a9f34f9b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Notes/Tarefas.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Tarefas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24d00409a1fb195c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ea8def3754b9ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "997ccba14218e405",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0e9d2021a63af6bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "fd253785fbc0031a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38bc29321246b343",
+    "type": "split",
+    "children": [
+      {
+        "id": "260654b35f113ef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "553de3314e19ed5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Tarefas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Tarefas"
+            }
+          },
+          {
+            "id": "9ade90fa26a35377",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Tarefas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Tarefas"
+            }
+          },
+          {
+            "id": "c218cb3e973b9372",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "341f24908f66c39a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Tarefas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Tarefas"
+            }
+          },
+          {
+            "id": "ab9bea7ace488a78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "system3-relay:Relay": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "997ccba14218e405",
+  "lastOpenFiles": [
+    "Notes/Untitled.md",
+    "Notes/Tarefas.md",
+    "Notes/Tarefas.md",
+    "Notes",
+    "ALA/OI.md",
+    "ALA.md",
+    "ALA",
+    "Bem-vindo.md",
+    "desktop.ini"
+  ]
+}
