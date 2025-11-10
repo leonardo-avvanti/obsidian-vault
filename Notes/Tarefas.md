@@ -35,6 +35,7 @@ kanban-plugin: board
 - [ ] Processos + Movimentações + Movimentações
 - [ ] Site Avvanti - Add Dev Home
 - [ ] Site Avvanti - Add Page
+- [ ] TESTE
 
 
 
